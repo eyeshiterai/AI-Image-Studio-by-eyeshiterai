@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio",
+  "description": "A powerful photo editing and generation app. Add objects, remove backgrounds, or change styles with text prompts. Generate high-quality, perfectly-sized images for any purpose.",
+  "requestFramePermissions": []
+}
